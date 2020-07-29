@@ -1,0 +1,10 @@
+/Packages/
+/.idea/.idea.SerializeDemo/
+/Library/
+/Logs/
+/obj/Debug/
+/ProjectSettings/
+/Temp/
+/UserSettings/
+/Assembly-CSharp.csproj
+/SerializeDemo.sln
